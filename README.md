@@ -1,4 +1,5 @@
-<img width="801" height="527" alt="Screenshot of dashboard" src="https://github.com/user-attachments/assets/1bb3c04b-d3d5-48aa-9575-b70ca9b74e60" />
+<img width="1796" height="1366" alt="dashboard" src="https://github.com/user-attachments/assets/81f2daeb-21e7-4ac7-99dc-757c09d7be99" />
+
 
  # 📊 YouTube Trending Video Analysis Dashboard
 
