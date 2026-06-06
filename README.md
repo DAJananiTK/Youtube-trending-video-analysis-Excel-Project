@@ -1,134 +1,118 @@
 
- YouTube Trending Video Analysis Dashboard
+ # 📊 YouTube Trending Video Analysis Dashboard
 
-![Dashboard Preview](images/dashboard.png)
+<p align="center">
+  <img src="images/dashboard.png" alt="YouTube Trending Video Dashboard" width="100%">
+</p>
 
- Project Overview
-The **YouTube Trending Video Analysis Dashboard** is an Excel-based data analytics project designed to uncover the key factors influencing video performance, audience engagement, and trending success on YouTube.
+## 📌 Project Overview
 
-By analyzing video views, likes, comments, engagement rates, publishing times, categories, and geographic performance, this dashboard provides actionable insights that help content creators and digital marketing teams optimize their content strategies.
+The **YouTube Trending Video Analysis Dashboard** is an Excel-based analytics project that explores the factors influencing video performance, audience engagement, and content reach on YouTube.
 
----
-
- Business Problem
-Content creators often struggle to determine which factors consistently contribute to higher engagement and trending success.
-
-This project addresses that challenge by identifying patterns across:
-- Content Categories
-- Publishing Time
-- Geographic Markets
-- Trending Status
-- Audience Engagement Metrics
+Using interactive visualizations and KPI tracking, this dashboard helps uncover patterns in content categories, publishing schedules, geographic performance, and trending behavior to support data-driven content strategies.
 
 ---
 
- Dataset Information
+## 🎯 Objectives
 
-The dataset contains information about trending YouTube videos, including:
-
-- Video ID
-- Video Title
-- Category
-- Publish Date
-- Views
-- Likes
-- Comments
-- Country
-- Trending Status
-- Engagement Rate
-- Video Duration
+- Analyze video performance across content categories.
+- Identify high-performing geographic markets.
+- Determine the optimal upload time for maximum engagement.
+- Compare trending and non-trending video performance.
+- Evaluate audience engagement through likes and comments.
+- Track monthly trends and seasonal patterns.
 
 ---
 
- Tools & Techniques Used
+## 🛠️ Tools Used
 
 - Microsoft Excel
 - Pivot Tables
 - Pivot Charts
-- Interactive Slicers
-- Data Cleaning & Transformation
-- KPI Development
-- Dashboard Design
-- Excel Functions:
-  - SUMIF
-  - IFERROR
-  - VLOOKUP
-  - TEXT
-  - COUNTIF
+- Slicers & Interactive Filters
+- Excel Functions (SUMIF, VLOOKUP, IFERROR, TEXT)
 
 ---
 
- Dashboard Features
+## 📈 Dashboard Highlights
 
- KPI Cards
-- Total Views
-- Total Likes
-- Total Comments
-- Average Engagement Rate
-- Trending Videos Count
-
- Visualizations
-- Views by Category
-- Country-wise Views
-- Best Upload Hour Analysis
-- Trending vs Non-Trending Performance
-- Likes & Comments by Category
-- Monthly View Trends
-
- Interactive Filters
-- Category
-- Country
-- Trending Status
-- Month
+| KPI | Value |
+|------|--------|
+| Total Views | 123.71B |
+| Total Likes | 5.03B |
+| Total Comments | 748.4M |
+| Trending Videos | 3,521 |
+| Avg. Engagement Rate | 7.75% |
 
 ---
 
- Key Insights
+## 📊 Dashboard Features
 
- Category Performance
-Music generated the highest number of views, making it the strongest-performing content category.
+✔ KPI Cards for Performance Monitoring
 
- Geographic Reach
-India contributed the largest share of views, highlighting its importance as a target audience market.
+✔ Category-wise View Analysis
 
- Optimal Upload Time
+✔ Country-wise Performance Analysis
+
+✔ Best Upload Hour Analysis
+
+✔ Trending vs Non-Trending Comparison
+
+✔ Likes & Comments Analysis
+
+✔ Monthly View Trend Analysis
+
+✔ Interactive Filters and Slicers
+
+---
+
+## 🔍 Key Insights
+
+### 🎵 Top Performing Category
+Music generated the highest number of views, making it the most impactful content category.
+
+### 🌍 Highest Audience Market
+India contributed the largest share of total views, highlighting its importance for content distribution strategies.
+
+### ⏰ Best Upload Time
 Videos published around **6 PM** achieved the highest engagement rates.
 
- Trending Impact
-Trending videos significantly outperformed non-trending videos, demonstrating the compounding effect of platform visibility.
+### 📈 Trending Impact
+Trending videos significantly outperformed non-trending videos, demonstrating the power of platform visibility and recommendation algorithms.
 
- Audience Engagement
+### 👍 Audience Engagement
 - Vlogs received the highest number of likes.
-- Music and Sports generated the most comments.
+- Music and Sports generated the highest comment activity.
 
- Monthly Trends
-Viewership fluctuated throughout the year, revealing clear seasonal patterns.
+### 📅 Seasonal Trends
+Monthly view patterns revealed fluctuations in audience activity throughout the year.
 
 ---
 
- Business Recommendations
+## 💡 Business Recommendations
 
-- Prioritize Music-related content to maximize reach.
-- Develop an India-focused content strategy.
-- Schedule uploads around 6 PM for better engagement.
-- Analyze trending video characteristics to improve discoverability.
+- Prioritize Music-related content to maximize audience reach.
+- Develop localized strategies targeting the Indian market.
+- Schedule uploads around 6 PM to improve engagement.
+- Optimize content for trending eligibility.
 - Use Vlogs to strengthen audience loyalty and retention.
 
 ---
 
- Project Outcome
+## 🚀 Project Outcome
 
-This project demonstrates how Excel can be leveraged to perform end-to-end data analysis and build interactive dashboards that transform raw data into meaningful business insights.
+This project demonstrates how Microsoft Excel can be used to perform end-to-end data analysis and create interactive dashboards that transform raw data into actionable business insights.
 
-The findings provide practical recommendations that can help creators and marketers improve content performance, audience engagement, and overall channel growth.
+The dashboard enables stakeholders to make informed decisions regarding content creation, publishing schedules, audience targeting, and engagement optimization.
 
 ---
 
-👤 Author
+## 👤 Author
 
 **Janani TK**  
-Data Analyst Portfolio Project  
-2026
+**Data Analyst Portfolio Project**  
+**Tools:** Microsoft Excel | Data Analysis | Dashboard Design
 
 ---
-⭐ If you found this project interesting, feel free to star the repository and connect with me.
+
+⭐ If you found this project useful, consider giving it a star!
