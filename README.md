@@ -1,4 +1,5 @@
-https://github.com/DAJananiTK/Youtube-trending-video-analysis-/blob/main/Screenshot%20of%20dashboard.png
+<img width="801" height="527" alt="Screenshot of dashboard" src="https://github.com/user-attachments/assets/1bb3c04b-d3d5-48aa-9575-b70ca9b74e60" />
+
  # 📊 YouTube Trending Video Analysis Dashboard
 
 <p align="center">
