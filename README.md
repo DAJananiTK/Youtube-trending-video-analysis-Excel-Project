@@ -113,6 +113,6 @@ The dashboard enables stakeholders to make informed decisions regarding content 
 **Data Analyst Portfolio Project**  
 **Tools:** Microsoft Excel | Data Analysis | Dashboard Design
 
----
 
-⭐ If you found this project useful, consider giving it a star!
+
+
