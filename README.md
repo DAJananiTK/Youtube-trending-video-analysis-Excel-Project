@@ -1,59 +1,134 @@
-📊 YouTube Trending Video Analysis Dashboard
 
-Overview
+ YouTube Trending Video Analysis Dashboard
 
-This project analyzes YouTube trending video data to identify the factors that drive content performance, audience engagement, and video reach. Using Microsoft Excel, an interactive dashboard was created to transform raw data into actionable insights for content creators and marketing teams.
+![Dashboard Preview](images/dashboard.png)
 
-Objectives
-Identify top-performing content categories.
-Analyze country-wise audience reach.
-Determine the best upload time for engagement.
-Compare trending and non-trending video performance.
-Evaluate audience interaction through likes and comments.
-Track monthly viewership trends.
-Tools Used
-Microsoft Excel
-Pivot Tables
-Pivot Charts
-Slicers & Interactive Filters
-Excel Functions (SUMIF, VLOOKUP, IFERROR, TEXT)
-Dashboard Highlights
-KPI	Value
-Total Views	123.71B
-Total Likes	5.03B
-Total Comments	748.4M
-Average Engagement Rate	7.75%
-Trending Videos Count	3,521
-Key Insights
-🎵 Music generated the highest number of views.
-🌍 India contributed the largest audience reach.
-⏰ 6 PM emerged as the most effective upload hour.
-📈 Trending videos significantly outperformed non-trending videos.
-👍 Vlogs received the highest likes, while Music and Sports generated the most comments.
-📅 Monthly trends revealed seasonal fluctuations in viewership.
-Business Recommendations
-Focus on Music-related content to maximize reach.
-Build an India-first content strategy.
-Schedule uploads around 6 PM for higher engagement.
-Optimize videos for trending eligibility.
-Use Vlogs to strengthen audience loyalty and retention.
-Dashboard Features
+ Project Overview
+The **YouTube Trending Video Analysis Dashboard** is an Excel-based data analytics project designed to uncover the key factors influencing video performance, audience engagement, and trending success on YouTube.
 
-✔ KPI Cards for key metrics
-✔ Views by Category Analysis
-✔ Country-wise Performance Analysis
-✔ Best Upload Hour Analysis
-✔ Trending vs Non-Trending Comparison
-✔ Likes & Comments Analysis
-✔ Monthly View Trends
-✔ Interactive Slicers for Dynamic Filtering
+By analyzing video views, likes, comments, engagement rates, publishing times, categories, and geographic performance, this dashboard provides actionable insights that help content creators and digital marketing teams optimize their content strategies.
 
-Conclusion
+---
 
-This project demonstrates how Excel can be used to perform end-to-end data analysis and create interactive dashboards that support data-driven decision-making. The insights generated help identify content strategies that improve audience engagement, increase visibility, and maximize channel growth.
+ Business Problem
+Content creators often struggle to determine which factors consistently contribute to higher engagement and trending success.
+
+This project addresses that challenge by identifying patterns across:
+- Content Categories
+- Publishing Time
+- Geographic Markets
+- Trending Status
+- Audience Engagement Metrics
+
+---
+
+ Dataset Information
+
+The dataset contains information about trending YouTube videos, including:
+
+- Video ID
+- Video Title
+- Category
+- Publish Date
+- Views
+- Likes
+- Comments
+- Country
+- Trending Status
+- Engagement Rate
+- Video Duration
+
+---
+
+ Tools & Techniques Used
+
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Interactive Slicers
+- Data Cleaning & Transformation
+- KPI Development
+- Dashboard Design
+- Excel Functions:
+  - SUMIF
+  - IFERROR
+  - VLOOKUP
+  - TEXT
+  - COUNTIF
+
+---
+
+ Dashboard Features
+
+ KPI Cards
+- Total Views
+- Total Likes
+- Total Comments
+- Average Engagement Rate
+- Trending Videos Count
+
+ Visualizations
+- Views by Category
+- Country-wise Views
+- Best Upload Hour Analysis
+- Trending vs Non-Trending Performance
+- Likes & Comments by Category
+- Monthly View Trends
+
+ Interactive Filters
+- Category
+- Country
+- Trending Status
+- Month
+
+---
+
+ Key Insights
+
+ Category Performance
+Music generated the highest number of views, making it the strongest-performing content category.
+
+ Geographic Reach
+India contributed the largest share of views, highlighting its importance as a target audience market.
+
+ Optimal Upload Time
+Videos published around **6 PM** achieved the highest engagement rates.
+
+ Trending Impact
+Trending videos significantly outperformed non-trending videos, demonstrating the compounding effect of platform visibility.
+
+ Audience Engagement
+- Vlogs received the highest number of likes.
+- Music and Sports generated the most comments.
+
+ Monthly Trends
+Viewership fluctuated throughout the year, revealing clear seasonal patterns.
+
+---
+
+ Business Recommendations
+
+- Prioritize Music-related content to maximize reach.
+- Develop an India-focused content strategy.
+- Schedule uploads around 6 PM for better engagement.
+- Analyze trending video characteristics to improve discoverability.
+- Use Vlogs to strengthen audience loyalty and retention.
+
+---
+
+ Project Outcome
+
+This project demonstrates how Excel can be leveraged to perform end-to-end data analysis and build interactive dashboards that transform raw data into meaningful business insights.
+
+The findings provide practical recommendations that can help creators and marketers improve content performance, audience engagement, and overall channel growth.
+
+---
 
 👤 Author
 
-Janani TK
-Data Analyst Portfolio Project
-Tools: Microsoft Excel | Data Analysis | Dashboard Design
+**Janani TK**  
+Data Analyst Portfolio Project  
+2026
+
+---
+⭐ If you found this project interesting, feel free to star the repository and connect with me.
