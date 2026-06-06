@@ -85,7 +85,7 @@ Trending videos significantly outperformed non-trending videos, demonstrating th
 - Music and Sports generated the highest comment activity.
 
 ### 📅 Seasonal Trends
-Monthly view patterns revealed fluctuations in audience activity throughout the year.
+May achieved the highest views (18.9B), while July recorded the lowest (16.3B). A 13.5% variation across months highlights the impact of seasonality on content performance.
 
 ---
 
