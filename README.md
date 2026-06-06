@@ -2,9 +2,7 @@
 
  # 📊 YouTube Trending Video Analysis Dashboard
 
-<p align="center">
-  <img src="images/dashboard.png" alt="YouTube Trending Video Dashboard" width="100%">
-</p>
+
 
 ## 📌 Project Overview
 
